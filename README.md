@@ -35,7 +35,8 @@ print(b)
 ```
 
 ## Output:
-<img width="1047" height="770" alt="image" src="https://github.com/user-attachments/assets/50025ebd-7c01-45cc-915f-e4d2b3a0b59a" />
+<img width="922" height="807" alt="image" src="https://github.com/user-attachments/assets/7a3deba2-8e35-4432-9bd1-9f20e39c5884" />
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
