@@ -25,14 +25,14 @@ Write a python program to find the inverse of the given matrix
 -1 2 -2
  2 3 -1
 ```
-```
+~~~python
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 b=np.linalg.inv(a)
 print(b)
-```
+~~~
 
 ## Output:
 <img width="922" height="807" alt="image" src="https://github.com/user-attachments/assets/7a3deba2-8e35-4432-9bd1-9f20e39c5884" />
